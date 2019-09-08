@@ -1,0 +1,25 @@
+.main{
+  text-align:center;
+  background-color:gray;
+padding: 25px 50px 75px;
+
+}
+
+#img{
+background-color:white;
+}
+
+#id{
+background-color:gray;
+}
+
+.list{
+  background-color:white;
+  text-align:justify;
+  padding:5px 20% 2px 20%;
+  vertical-space:1px;
+}
+
+#footer{
+text-align:center;
+}
